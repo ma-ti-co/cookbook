@@ -131,10 +131,13 @@ img{
     height: 1em;
 }
 
-.recipe-item__difficulty .chef, .recipe-input__difficulty .chef{
+.recipe-item__difficulty .chef{
     font-size: 2rem;
     opacity: 0.2;
-
+}
+.recipe-input__difficulty .chef{
+    font-size: 1rem;
+    opacity: 0.2;
 }
 .recipe-item__difficulty.level-1 .chef:nth-child(1){
     opacity:1
@@ -152,6 +155,9 @@ img{
     opacity:1
 }
 
+.recipe-input__difficulty{
+    text-align: right;
+}
 .recipe-input__difficulty.level-1 .chef:nth-child(1){
     opacity:1
 }

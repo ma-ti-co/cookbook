@@ -99,12 +99,12 @@
                   <label for="recipient-name" class="col-form-label">Recipe Name:</label>
                   <input required name="title" type="text" class="form-control" id="recipe-name">
                 </div>
-                <div class="mb-3">
-                    <label for="recipient-image" class="col-form-label">Recipe Difficulty:</label>
-                    <input required type="range" id="recipe-difficulty" name="difficulty" 
+                <div class="mb-3 d-flex justify-content-between align-items-center">
+                    <label for="recipient-image" class="col-form-label col-4">Difficulty:</label>
+                    <input required type="range" id="recipe-difficulty" class="col-4" name="difficulty" 
                     min="1" max="5" value="1" step="1">
-                    <div class="feedback">
-                        <div class="col-6 recipe-input__difficulty level-1">
+                    <div class="feedback col-4">
+                        <div class="recipe-input__difficulty level-1">
                             <span class="chef mr-2">🧑‍🍳</span>
                             <span class="chef mr-2">🧑‍🍳</span>
                             <span class="chef mr-2">🧑‍🍳</span>
@@ -113,11 +113,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="mb-3">
-                    <label for="recipient-image" class="col-form-label">Time Needed:</label>
-                    <input required type="range" id="recipe-duration" name="duration" 
+                <div class="mb-3 d-flex justify-content-between align-items-center">
+                    <label for="recipient-image" class="col-4 col-form-label">Time Needed:</label>
+                    <input required type="range" id="recipe-duration" class="col-4" name="duration" 
                     min="15" max="240" value="15" step="15">
-                    <span class="feedback">15</span> .min
+                    <div class="col-4 text-end"><span class="feedback">15</span> .min</div>
                 </div>
                 <div class="mb-3">
                     <label for="recipient-image" class="col-form-label">Recipe Image:</label>
