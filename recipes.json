@@ -1,0 +1,92 @@
+{
+    "recipes": [
+      {
+        "title": "Spaghetti Carbonara",
+        "description": "A classic Italian dish made with spaghetti, eggs, bacon, and cheese.",
+        "duration":45,
+        "difficulty":3,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Carbonara.jpg",
+        "ingredients": [
+          "8 oz spaghetti",
+          "4 large egg yolks",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup diced bacon",
+          "2 cloves garlic, minced",
+          "Salt and black pepper, to taste"
+        ]
+      },
+      {
+        "title": "Chicken Fajitas",
+        "description": "A Tex-Mex favorite made with grilled chicken, peppers, and onions.",
+        "duration":45,
+        "difficulty":2,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/4004_-_Zermatt_-_Restaurant_Weisshorn.JPG/2560px-4004_-_Zermatt_-_Restaurant_Weisshorn.JPG",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breasts, sliced",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "1 tbsp chili powder",
+          "1 tsp cumin",
+          "1 tsp garlic powder",
+          "Salt and black pepper, to taste"
+        ]
+      },
+      {
+        "title": "Vegetable Stir-Fry",
+        "description": "A healthy and colorful dish made with a variety of vegetables and a soy sauce-based sauce.",
+        "duration":45,
+        "difficulty":5,
+        "image":"https://images.immediate.co.uk/production/volatile/sites/30/2014/02/Stir-fry-recipes-aab9292.jpg?quality=90&webp=true&resize=600,545",
+        "ingredients": [
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "1 zucchini, sliced",
+          "1 carrot, sliced",
+          "1/2 cup sliced mushrooms",
+          "2 cloves garlic, minced",
+          "1/4 cup soy sauce",
+          "1 tbsp honey",
+          "1 tbsp cornstarch"
+        ]
+      },
+      {
+        "title": "Beef Stroganoff",
+        "description": "A hearty and comforting dish made with beef, mushrooms, and a sour cream-based sauce.",
+        "duration":45,
+        "difficulty":1,
+        "image": "https://www.gimmesomeoven.com/wp-content/uploads/2020/10/Beef-Stroganoff-Recipe-9.jpg",
+        "ingredients": [
+          "1 lb beef sirloin, sliced",
+          "8 oz sliced mushrooms",
+          "1 small onion, diced",
+          "2 cloves garlic, minced",
+          "1/4 cup flour",
+          "1 1/2 cups beef broth",
+          "1/2 cup sour cream",
+          "Salt and black pepper, to taste"
+        ]
+      },
+      {
+        "title": "Fish Tacos",
+        "description": "A light and fresh meal made with grilled fish, cabbage slaw, and a spicy crema sauce.",
+        "duration":45,
+        "difficulty":4,
+        "image": "https://www.recipetineats.com/wp-content/uploads/2016/05/Fish-Tacos_4-1.jpg",
+        "ingredients": [
+          "1 lb white fish fillets, such as cod or tilapia",
+          "1/4 head green cabbage, shredded",
+          "1/4 head purple cabbage, shredded",
+          "1/4 cup chopped cilantro",
+          "1/4 cup sour cream",
+          "1/4 cup mayonnaise",
+          "1 tbsp lime juice",
+          "1 jalapeño pepper, seeded and minced",
+          "Salt and black pepper, to taste"
+        ]
+      }
+    ]
+}
+      
+  
